@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/activity_horizontal_margin"
+    android:padding="@dimen/activity_horizontal_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/frag_profile">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:orientation="vertical">
+
+        <AutoCompleteTextView
+            android:id="@+id/profile_race"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:drawablePadding="@dimen/activity_horizontal_margin"
+            android:drawableStart="@drawable/race"
+            android:hint="@string/race"
+            android:inputType="textEmailAddress"
+            android:maxLines="10"
+            android:minHeight="@dimen/et_min_height"
+            android:padding="5dp" />
+
+        <!--Food Habit-->
+        <AutoCompleteTextView
+            android:id="@+id/profile_food"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:drawablePadding="@dimen/activity_horizontal_margin"
+            android:drawableStart="@drawable/food_habit"
+            android:hint="@string/food_habit"
+            android:inputType="textEmailAddress"
+            android:maxLines="10"
+            android:minHeight="@dimen/et_min_height"
+            android:padding="5dp" />
+
+        <!--Food Supplement-->
+        <AutoCompleteTextView
+            android:id="@+id/profile_supplement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:drawablePadding="@dimen/activity_horizontal_margin"
+            android:drawableStart="@drawable/medicine"
+            android:hint="@string/food_supplementary"
+            android:inputType="textEmailAddress"
+            android:maxLines="10"
+            android:minHeight="@dimen/et_min_height"
+            android:padding="5dp" />
+
+        <!--Exercise-->
+        <AutoCompleteTextView
+            android:id="@+id/profile_excercise"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:drawablePadding="@dimen/activity_horizontal_margin"
+            android:drawableStart="@drawable/exercise"
+            android:hint="@string/lifestyle"
+            android:inputType="textEmailAddress"
+            android:maxLines="10"
+            android:minHeight="@dimen/et_min_height"
+            android:padding="5dp" />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
