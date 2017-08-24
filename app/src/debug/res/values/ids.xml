@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="facebook_app_id" templateMergeStrategy="preserve" translatable="false">492834807720570</string>
+    <string name="fb_login_protocol_scheme" templateMergeStrategy="preserve" translatable="false">fb492834807720570</string>
+    <string name="twitter_consumer_key" templateMergeStrategy="preserve" translatable="false">ViOQNZV7V3ais70BaEmrSM0DL</string>
+    <string name="twitter_consumer_secret" templateMergeStrategy="preserve" translatable="false">0VBdMr1gc9geVkOcEQpfBImFP50mlLz11fxGVqPWfBB35TToe7</string>
+
+</resources>
