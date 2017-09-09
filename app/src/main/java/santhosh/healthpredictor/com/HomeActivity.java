@@ -57,7 +57,7 @@ public class HomeActivity extends AppCompatActivity {
             setupDrawerContent(navView);
             //show profile fragment by default
             showFragment(new ProfileFragment());
-            drawerLayout.openDrawer(GravityCompat.START);
+            //drawerLayout.openDrawer(GravityCompat.START);
             navView.setCheckedItem(R.id.drawer_profile);
         }
 

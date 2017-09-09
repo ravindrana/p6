@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">SmartHealthPredictor</string>
+    <string name="app_name">Predictify</string>
     <string name="title_activity_welcome">Home Screen</string>
     <string name="next">Agree</string>
     <string name="skip">Cancel</string>
     <string name="start">Agree</string>
 
     <string name="slide_1_title">Disclaimer</string>
-    <string name="slide_1_desc">ESH2017: SmartHealthPredictor is just a precision app and for
+    <string name="slide_1_desc">ESH2017: Predictify is just a precision app and for
         realistic details / data you should contact an authorized lab or physician</string>
 
     <string name="slide_2_title">Privacy Policy</string>
@@ -26,8 +26,8 @@
     <string name="gplus">Google</string>
     <string name="home">Home</string>
     <string name="under_construction">Under Construction!</string>
-    <string name="settings">Settings</string>
-    <string name="profile">Profile</string>
+    <string name="settings">Prediction</string>
+    <string name="profile">About You</string>
     <string name="sign_out">Sign out</string>
     <string name="race">Enter Race (ex. American)</string>
     <string name="food_habit">Enter Food Habit (ex. Paleo)</string>

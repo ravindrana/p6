@@ -21,7 +21,6 @@ import santhosh.healthpredictor.com.service.HealthPredictionService;
 
 public class HomeFragment extends Fragment implements View.OnClickListener {
     private Button btn_service, btn_status;
-
     private TextView tv_lat, tv_lng, tv_act;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
