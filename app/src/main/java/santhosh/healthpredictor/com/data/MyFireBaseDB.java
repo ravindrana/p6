@@ -13,7 +13,7 @@ import santhosh.healthpredictor.com.R;
 import santhosh.healthpredictor.com.application.MyApplication;
 
 /**
- * Created by AUS8KOR on 8/14/2017.
+ * East Sweden Hack 2017.
  */
 
 public class MyFireBaseDB {

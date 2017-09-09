@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1086423203228-rrt8bahao1vh055opt9aidg10omlt9gt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smarthealthprediction-72dfb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1086423203228</string>
+    <string name="google_api_key" translatable="false">AIzaSyARP01REID_jjwOgEcNztEiqqQDfhGsDAI</string>
+    <string name="google_app_id" translatable="false">1:1086423203228:android:bf708cfbca69e6d3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARP01REID_jjwOgEcNztEiqqQDfhGsDAI</string>
+    <string name="google_storage_bucket" translatable="false">smarthealthprediction-72dfb.appspot.com</string>
+    <string name="project_id" translatable="false">smarthealthprediction-72dfb</string>
+</resources>

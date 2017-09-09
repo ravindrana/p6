@@ -74,9 +74,9 @@ public class ProfileFragment extends Fragment{
         mUserProfile = new UserProfile();
 
         //stub
-        mRaceView.setText("Indian");
-        mFoodHabitView.setText("Palieo");
-        mFoodSupplementView.setText("Omega");
+        mRaceView.setText("Swedish");
+        mFoodHabitView.setText("LCHF");
+        mFoodSupplementView.setText("Vitamin D3");
         mExerciseView.setText("Yoga");
         return v;
     }

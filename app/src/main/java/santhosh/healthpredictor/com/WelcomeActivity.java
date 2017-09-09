@@ -65,8 +65,9 @@ import santhosh.healthpredictor.com.application.MyApplication;
 import santhosh.healthpredictor.com.data.Constants;
 
 /**
- * Created by santhosh.
+ * East Sweden Hack 2017.
  */
+
 public class WelcomeActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ViewPager viewPager;

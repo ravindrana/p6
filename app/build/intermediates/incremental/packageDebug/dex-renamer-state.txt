@@ -1,0 +1,7 @@
+#Sat Sep 09 15:20:45 CEST 2017
+base.0=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e03d4c8d173cee20459d6c6298c6752f1cfa03f0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_48594352af696b72b01108b335f681ac93baa0c5/classes.dex
+base.1=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_48594352af696b72b01108b335f681ac93baa0c5
+file.0=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e03d4c8d173cee20459d6c6298c6752f1cfa03f0/classes.dex

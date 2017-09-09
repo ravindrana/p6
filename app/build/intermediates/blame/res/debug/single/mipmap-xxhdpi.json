@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/fb_login.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-xxhdpi/fb_login.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/tw_login.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-xxhdpi/tw_login.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_menu.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-xxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/google_login.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-xxhdpi/google_login.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/logo.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-xxhdpi/logo.png"
+    }
+]

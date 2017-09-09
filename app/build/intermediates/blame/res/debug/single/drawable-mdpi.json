@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/food_habit.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/food_habit.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/home.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/home.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_save.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/exercise.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/exercise.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/settings.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/account.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/account.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/race.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/race.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/lock.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/lock.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/medicine.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/medicine.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-mdpi/logout.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-mdpi/logout.png"
+    }
+]

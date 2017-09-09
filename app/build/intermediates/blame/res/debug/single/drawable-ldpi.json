@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/account.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/account.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/medicine.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/medicine.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/home.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/home.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/food_habit.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/food_habit.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/logout.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/logout.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/exercise.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/exercise.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_save.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/lock.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/lock.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/race.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/race.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-ldpi/settings.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/debug/drawable-ldpi/settings.png"
+    }
+]

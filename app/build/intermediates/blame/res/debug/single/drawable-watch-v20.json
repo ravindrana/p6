@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/ravindrana/.android/build-cache/5e667035ad13f617910ddbf72c53656788ebe07f/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/ravindrana/.android/build-cache/5e667035ad13f617910ddbf72c53656788ebe07f/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/ravindrana/.android/build-cache/5e667035ad13f617910ddbf72c53656788ebe07f/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

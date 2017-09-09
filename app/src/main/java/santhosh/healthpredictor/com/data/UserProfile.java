@@ -1,8 +1,9 @@
 package santhosh.healthpredictor.com.data;
 
 /**
- * Created by AUS8KOR on 6/23/2017.
+ * East Sweden Hack 2017.
  */
+
 
 public class UserProfile {
     private String mName;

@@ -1,8 +1,9 @@
 package santhosh.healthpredictor.com;
 
 /**
- * Created by rufflez on 10/4/15.
+ * East Sweden Hack 2017.
  */
+
 public class VersionModel {
     public static final String[] data = {
             "cupcake", "donut", "eclair", "froyo", "gingerbread",

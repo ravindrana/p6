@@ -6,7 +6,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 /**
- * Created by AUS8KOR on 8/14/2017.
+ * East Sweden Hack 2017.
  */
 
 public class MyApplication extends Application {

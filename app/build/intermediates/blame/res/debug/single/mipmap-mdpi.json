@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_menu.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-mdpi/ic_menu.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ravindrana/Documents/p6/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

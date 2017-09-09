@@ -12,8 +12,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * Created by rufflez on 6/21/15.
+ * East Sweden Hack 2017.
  */
+
 public class CoordinatorFragment extends Fragment {
     RecyclerView recyclerView;
 

@@ -1,0 +1,4 @@
+#Sat Sep 09 13:04:04 CEST 2017
+base.0=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
