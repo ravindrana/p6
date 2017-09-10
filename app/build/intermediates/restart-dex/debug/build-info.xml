@@ -6,22 +6,29 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1505036068677"
+    timestamp="1505036772274"
     token="9041825094628261918"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="391" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="5" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
+
+    <artifact
+        location="/Users/ravindrana/Documents/p6/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/ravindrana/Documents/p6/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -82,21 +89,17 @@
         <artifact
             location="/Users/ravindrana/Documents/p6/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/ravindrana/Documents/p6/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1505036033169"
+        timestamp="1505036772274"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/ravindrana/Documents/p6/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/ravindrana/Documents/p6/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1505036068677"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

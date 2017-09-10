@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -22,6 +23,7 @@ import santhosh.healthpredictor.com.service.HealthPredictionService;
 public class HomeFragment extends Fragment implements View.OnClickListener {
     private Button btn_service, btn_status;
     private TextView tv_lat, tv_lng, tv_act, tv_res, tv_hresult;
+    private ProgressBar determinateBar;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         View v = inflater.inflate(R.layout.frag_home, container, false);
@@ -38,6 +40,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
         tv_act = (TextView) v.findViewById(R.id.tv_activity);
         tv_hresult = (TextView) v.findViewById(R.id.tv_hresult);
         tv_res = (TextView) v.findViewById(R.id.tv_result);
+        determinateBar = (ProgressBar) v.findViewById(R.id.progress_bar);
         return v;
     }
 
@@ -65,6 +68,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
                 }else{
                     getActivity().startService(new Intent(getActivity(), HealthPredictionService.class));
                     btn_service.setText(R.string.stop_learning);
+                    determinateBar.setVisibility(View.GONE);
                     handleReceiver(true);
                 }
                 break;

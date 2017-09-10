@@ -1,4 +1,4 @@
-#Sun Sep 10 11:33:07 CEST 2017
+#Sun Sep 10 11:46:15 CEST 2017
 base.0=/Users/ravindrana/Documents/p6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e03d4c8d173cee20459d6c6298c6752f1cfa03f0
 renamed.1=classes2.dex
 renamed.0=classes.dex
