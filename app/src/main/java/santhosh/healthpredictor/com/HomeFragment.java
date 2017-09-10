@@ -21,7 +21,7 @@ import santhosh.healthpredictor.com.service.HealthPredictionService;
 
 public class HomeFragment extends Fragment implements View.OnClickListener {
     private Button btn_service, btn_status;
-    private TextView tv_lat, tv_lng, tv_act;
+    private TextView tv_lat, tv_lng, tv_act, tv_res, tv_hresult;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         View v = inflater.inflate(R.layout.frag_home, container, false);
@@ -36,6 +36,8 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
         tv_lat = (TextView) v.findViewById(R.id.tv_latitude);
         tv_lng = (TextView) v.findViewById(R.id.tv_longitude);
         tv_act = (TextView) v.findViewById(R.id.tv_activity);
+        tv_hresult = (TextView) v.findViewById(R.id.tv_hresult);
+        tv_res = (TextView) v.findViewById(R.id.tv_result);
         return v;
     }
 
@@ -58,6 +60,8 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
                 if(HealthPredictionService.isRunning){
                     getActivity().stopService(new Intent(getActivity(), HealthPredictionService.class));
                     btn_service.setText(R.string.start_learning);
+                    tv_hresult.setText("Active Heart");
+                    tv_res.setText("You are Super Active. But why not try LCHF Diet ?");
                 }else{
                     getActivity().startService(new Intent(getActivity(), HealthPredictionService.class));
                     btn_service.setText(R.string.stop_learning);

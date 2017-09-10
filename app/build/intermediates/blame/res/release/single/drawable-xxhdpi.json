@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/home.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/home.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/account.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/account.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/exercise.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/exercise.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/lock.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/lock.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/race.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/race.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/logout.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/logout.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/settings.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/food_habit.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/food_habit.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/medicine.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/medicine.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_save.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_save.png"
+    }
+]

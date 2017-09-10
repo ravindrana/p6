@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/logout.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/logout.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/medicine.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/medicine.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/race.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/race.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/food_habit.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/food_habit.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/ic_save.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/account.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/account.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/settings.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/exercise.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/exercise.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/home.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/home.png"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/drawable-ldpi/lock.png",
+        "source": "/Users/ravindrana/Documents/p6/app/build/generated/res/pngs/release/drawable-ldpi/lock.png"
+    }
+]

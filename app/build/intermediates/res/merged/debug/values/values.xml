@@ -701,6 +701,7 @@
     <integer name="hide_password_duration">320</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Predicted">Predicted Result:</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -784,6 +785,7 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARP01REID_jjwOgEcNztEiqqQDfhGsDAI</string>
     <string name="google_storage_bucket" translatable="false">smarthealthprediction-72dfb.appspot.com</string>
     <string name="gplus">Google</string>
+    <string name="heart_rate">Heart Rate:</string>
     <string name="home">Home</string>
     <string name="latitude">Latitude:</string>
     <string name="lifestyle">Lifestyle Details (ex. Yoga)</string>

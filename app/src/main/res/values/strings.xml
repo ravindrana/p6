@@ -44,8 +44,10 @@
     <string name="stop_learning">Stop Learning and Show Results</string>
     <string name="status_service">STATUS</string>
     <string name="user_activity">Activity:</string>
+    <string name="heart_rate">Heart Rate:</string>
     <string name="longitude">Longitude:</string>
     <string name="latitude">Latitude:</string>
+    <string name="Predicted">Predicted Result:</string>
     <string-array name="race_array">
         <item>American</item>
         <item>European</item>
