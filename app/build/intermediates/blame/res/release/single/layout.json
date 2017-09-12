@@ -4,12 +4,12 @@
         "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
         "source": "/Users/ravindrana/.android/build-cache/ff8347b55cfd65172329494eb4500b8f5bc2a0cf/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
@@ -20,12 +20,12 @@
         "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
-        "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/notification_template_media.xml"
-    },
-    {
         "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/ravindrana/.android/build-cache/58d37b30d4fd8eff82cb79a174e62b441e3eae70/output/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/ravindrana/Documents/p6/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",

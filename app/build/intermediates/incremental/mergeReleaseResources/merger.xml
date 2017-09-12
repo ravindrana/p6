@@ -1997,7 +1997,7 @@
     </string-array><string-array name="food_supplement_array">
         <item>Omega 3</item>
         <item>Vitamin D3</item>
-    </string-array><string name="start">Agree</string><string name="sign_out">Sign out</string><string name="tw">Twitter</string><string name="use_social_login">Or Use Social Login</string><string name="forgot_pwd">Forgot password?</string><string name="sign_in">Sign in</string><string name="latitude">Latitude:</string><string-array name="food_habit_array">
+    </string-array><string name="start">Agree</string><string name="sign_out">Sign out</string><string name="tw">Twitter</string><string name="use_social_login">Or Use Social Login</string><string name="forgot_pwd">Forgot password?</string><string name="Predicted">Predicted Result:</string><string name="sign_in">Sign in</string><string name="latitude">Latitude:</string><string-array name="food_habit_array">
         <item>Vegetarian</item>
         <item>Non Vegetarian</item>
         <item>Vegan</item>

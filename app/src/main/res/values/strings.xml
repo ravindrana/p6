@@ -6,12 +6,11 @@
     <string name="start">Agree</string>
 
     <string name="slide_1_title">Disclaimer</string>
-    <string name="slide_1_desc">ESH2017: Predictify is just a precision app and for
-        realistic details / data you should contact an authorized lab or physician</string>
+    <string name="slide_1_desc">ESH2017: Predictify is just a prediction app. you should always contact an authorized lab or physician for more detailed analysis and suggestions </string>
 
     <string name="slide_2_title">Privacy Policy</string>
     <string name="slide_2_desc">ESH2017: To provide health prediction functions,
-        the app requires access to your basic personal information, location, sensors and usage</string>
+        the app requires access to your basic personal information, location, sensors and usage data from health bands </string>
 
     <string name="slide_3_title">Diet Chart</string>
     <string name="slide_3_desc">ESH2017: Make your diet chart by the help of health experts</string>
@@ -29,7 +28,7 @@
     <string name="settings">Prediction</string>
     <string name="profile">About You</string>
     <string name="sign_out">Sign out</string>
-    <string name="race">Enter Race (ex. American)</string>
+    <string name="race">Living Region</string>
     <string name="food_habit">Enter Food Habit (ex. Paleo)</string>
     <string name="food_supplementary">Food Supplement (ex. Omega D3)</string>
     <string name="lifestyle">Lifestyle Details (ex. Yoga)</string>
